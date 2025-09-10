@@ -36,6 +36,13 @@ We manually implemented different data structures to improve **OOP concepts** an
 
 ---
 
+## 🎨 Console Output with Colors
+- We used **colored outputs** in `System.out.println()` to make system messages more realistic.  
+- On some systems, colors may not work, but they work fine on our setup.  
+- The purpose is to simulate how **real-world applications** use colors for **warnings, errors, success messages, etc.**  
+
+---
+
 ## 📂 Other Implemented Data Structures
 Along with the main project, we implemented the following data structures:
 
@@ -51,13 +58,6 @@ Along with the main project, we implemented the following data structures:
 9. Priority Queue using Max Heap  
 10. Binary Search Tree  
 11. Binary Heap  
-
----
-
-## 🎨 Console Output with Colors
-- We used **colored outputs** in `System.out.println()` to make system messages more realistic.  
-- On some systems, colors may not work, but they work fine on our setup.  
-- The purpose is to simulate how **real-world applications** use colors for **warnings, errors, success messages, etc.**  
 
 ---
 
