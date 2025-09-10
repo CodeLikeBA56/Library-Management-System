@@ -62,6 +62,6 @@ Along with the main project, we implemented the following data structures:
 ---
 
 ## 🔗 Repository Link
-[Click Here to Open Repository](#)  
+[Click Here to Open Repository](https://github.com/CodeLikeBA56/Custom-Data-Structures-Implementation)  
 
 ---
